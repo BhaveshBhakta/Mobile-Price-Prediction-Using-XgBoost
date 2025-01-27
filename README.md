@@ -1,7 +1,3 @@
-Here’s the README template with the requested sections for your Mobile Price Prediction project:
-
----
-
 # Mobile Price Prediction
 
 ## Project Overview
