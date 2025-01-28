@@ -35,7 +35,7 @@ The main purpose of this project is to predict mobile phone prices based on thei
     cd Mobile-Price-Prediction-Using-XgBoost
     ```
 
-3. Run the notebook 
+3. Run the Jupyter notebook 
 
 ## Collaboration
 
